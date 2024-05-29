@@ -9,7 +9,7 @@ inputs:
     required: false
     #default: 'us-east-1'
  outputs:
-   Bucketn:
+   Bucketn: string
    description: Bucket and Region created.
 
 runs:
